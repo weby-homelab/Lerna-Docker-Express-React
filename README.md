@@ -6,7 +6,8 @@
 ### Step 1: Download Docker Desktop
 Ensure Docker Desktop is installed on your machine. You can download it from [here](https://www.docker.com/products/docker-desktop).
 
-### Step 2: Install python
+### Step 2: Install Python
+Ensure Python 3.x is installed on your machine. It is required for the database backup and restore scripts located in the `cli/python` directory.
 
 ### Step 3: Start Monsters App
 
