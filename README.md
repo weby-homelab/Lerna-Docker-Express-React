@@ -45,3 +45,11 @@ On command <b>"npm run exit"</b> the <b>monsters_db.sql</b> will be backuped in 
 ```bash
 npm run exit
 ```
+
+---
+
+<br>
+<p align="center">
+  Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>
+  &copy; 2026 Weby Homelab
+</p>
